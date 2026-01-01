@@ -12,7 +12,7 @@ const Navbar = ({ toggleSidebar }) => {
             src={TECHONLOGO}
             alt="techon logo"
             className="w-[7.37rem] h-auto lg:w-[8.75rem] min-[2560px]:w-[11.18rem] transition-all duration-500"
-          /> 
+          />
         </div>
 
         <div className="hidden lg:block h-8 w-[2px] bg-gray-300 mx-2 min-[2560px]:h-10 min-[2560px]:w-[1px]"></div>

@@ -19,7 +19,7 @@ export const chartData = [
   { name: 'Mar', value: 18 },
   { name: 'Apr', value: 20 },
   { name: 'May', value: 15 },
-  { name: 'Jun', value: 45 }, 
+  { name: 'Jun', value: 45 },
   { name: 'Jul', value: 12 },
   { name: 'Aug', value: 25 },
   { name: 'Sep', value: 8 },
@@ -30,32 +30,32 @@ export const chartData = [
 
 // 3. Stats Cards Data
 export const statsData = [
-  { 
-    id: 1, 
-    title: 'Total Employees', 
-    count: 3, 
+  {
+    id: 1,
+    title: 'Total Employees',
+    count: 3,
     icon: OFFICER,
-    iconBg: 'bg-orange-400' 
+    iconBg: 'bg-orange-400'
   },
-  { 
-    id: 2, 
-    title: 'Total Employees', 
-    count: 5, 
+  {
+    id: 2,
+    title: 'Total Employees',
+    count: 5,
     icon: ASSETMNGMT,
-    iconBg: 'bg-yellow-400' 
+    iconBg: 'bg-yellow-400'
   },
-  { 
-    id: 3, 
-    title: 'Total Employees', 
-    count: 0, 
-    icon: FOLDERS, 
-    iconBg: 'bg-pink-400' 
+  {
+    id: 3,
+    title: 'Total Employees',
+    count: 0,
+    icon: FOLDERS,
+    iconBg: 'bg-pink-400'
   },
-  { 
-    id: 4, 
-    title: 'Total Employees', 
-    count: 0, 
-    icon: FOLDERS, 
-    iconBg: 'bg-pink-400' 
+  {
+    id: 4,
+    title: 'Total Employees',
+    count: 0,
+    icon: FOLDERS,
+    iconBg: 'bg-pink-400'
   },
 ];
