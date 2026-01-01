@@ -30,7 +30,7 @@ const ExpiringListTable = () => {
                <ArrowUpRight className="text-gray-500 
                   w-3 h-3 
                   md:w-5 md:h-5 
-                  min-[2560px]:w-5 min-[2560px]:h-5" 
+                  min-[2560px]:w-5 min-[2560px]:h-5"
                />
             </button>
          </div>
@@ -62,7 +62,7 @@ const ExpiringListTable = () => {
                <img src={BOX} alt="box" className="
                   w-5 h-5 
                   md:w-10 md:h-10 
-                  min-[2560px]:w-auto min-[2560px]:h-auto" 
+                  min-[2560px]:w-auto min-[2560px]:h-auto"
                />
             </div>
             <div className="bg-gray-200 rounded-full
