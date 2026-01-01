@@ -1,0 +1,36 @@
+@import "tailwindcss";
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+
+
+@theme {
+  --font-sans: "Poppins", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+body {
+    background-color: #f3f4f6;
+    background-image: radial-gradient(
+      50.51% 50.51% at 50% 47.59%,
+      rgba(255, 0, 0, 0.12) 0%,
+      rgba(115, 115, 115, 0) 75.7%
+    );
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+:root {
+  font-family: var(--font-sans);
+
+    --color-black: #000000;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent; 
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1; 
+  border-radius: 10px;
+}
