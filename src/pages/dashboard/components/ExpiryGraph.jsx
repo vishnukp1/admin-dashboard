@@ -78,7 +78,7 @@ const ExpiryGraph = () => {
               cursor={{ fill: '#f1f5f9', radius: 8 }}
               contentStyle={{ borderRadius: '12px', border: 'none', boxShadow: '0 4px 10px rgba(0,0,0,0.1)' }}
             />
-            <Bar dataKey="value" radius={[6, 6, 6, 6]} barSize={12} className="min-[2560px]:radius-[14px]">
+            <Bar dataKey="value" radius={[6, 6, 6, 6]} barSize={20} className="min-[2560px]:radius-[14px]">
               {chartData.map((entry, index) => (
                 <Cell
                   key={`cell-${index}`}

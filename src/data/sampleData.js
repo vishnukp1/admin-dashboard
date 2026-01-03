@@ -5,11 +5,11 @@ import { ASSETMNGMT, ASSETS, BUSINESS, FOLDERS, HOME, LINECHART, MONEYFLOW, OFFI
 // 1. Sidebar Menu Data
 export const sidebarLinks = [
   { id: 1, icon: HOME, label: 'Dashboard', active: true },
-  { id: 2, icon: BUSINESS, label: 'Company', active: false },
-  { id: 3, icon: PROFILE, label: 'Profile', active: false },
-  { id: 4, icon: ASSETS, label: 'Documents', active: false },
-  { id: 5, icon: MONEYFLOW, label: 'Reports', active: false },
-  { id: 6, icon: LINECHART, label: 'Analytics', active: false },
+  { id: 2, icon: BUSINESS, label: 'Dashboard', active: false },
+  { id: 3, icon: PROFILE, label: 'Dashboard', active: false },
+  { id: 4, icon: ASSETS, label: 'Dashboard', active: false },
+  { id: 5, icon: MONEYFLOW, label: 'Dashboard', active: false },
+  { id: 6, icon: LINECHART, label: 'Dashboard', active: false },
 ];
 
 // 2. Chart Data for "Documents Expiring" graph

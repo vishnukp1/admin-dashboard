@@ -41,7 +41,7 @@ const ExpiringListTable = () => {
                md:min-w-[600px] md:gap-4 md:pb-4 md:mb-4
                min-[2560px]:min-w-[800px] min-[2560px]:gap-6 min-[2560px]:pb-6 min-[2560px]:mb-6
             ">
-               {['Entity', 'Email', 'Doc Name', 'Doc Type', 'Doc Type', 'Doc Type'].map((header, index) => (
+               {['Entity', 'Email', 'Document Name', 'Document Type', 'Document Type', 'Document Type'].map((header, index) => (
                   <span key={index} className="font-normal leading-none text-[var(--color-black)]
                      text-[0.3125rem]
                      md:text-xs

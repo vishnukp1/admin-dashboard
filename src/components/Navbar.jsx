@@ -44,7 +44,7 @@ const Navbar = ({ toggleSidebar }) => {
 
         <div className="hidden lg:flex items-center gap-4 min-[2560px]:gap-6 pl-4 border-l-2 border-gray-300 min-[2560px]:border-l-[1px] min-[2560px]:pl-[2.5rem]">
           <div className="flex flex-col items-end leading-none gap-1">
-            <span className="font-medium text-[#4B66E3] text-lg min-[2560px]:text-[1.5rem]">
+            <span className="font-medium text-[#4B66E3] text-lg min-[2560px]:text-[2.2rem]">
               techon
             </span>
             <span className="font-normal text-black text-xs min-[2560px]:text-[1.25rem]">

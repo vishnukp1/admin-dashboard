@@ -18,7 +18,7 @@ const DocumentsExpiryDetails = () => {
         <h2 className="leading-none text-[var(--color-black)]
           font-semibold text-[0.625rem]
           md:text-lg md:font-bold
-          min-[2560px]:text-xl min-[2560px]:font-bold
+          min-[2560px]:text-4xl min-[2560px]:font-bold
         ">
           Documents Expiry
         </h2>
