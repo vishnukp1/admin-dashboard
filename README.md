@@ -17,10 +17,10 @@ Pixel-perfect UI based on Figma, fully responsive (mobile → ultra-wide screens
 Tailwind CSS used for all styling, solid colors for clarity and accessibility, focused on UI accuracy and clean code
 
 ## Submission
-<<<<<<< HEAD
+
 GitHub Repository: <your-github-link>
 Live Demo: <your-vercel-link>
 =======
 GitHub Repository: [<your-github-link>](https://github.com/vishnukp1/admin-dashboard.git)
 Live Demo:https://admin-dashboard-nine-delta.vercel.app
->>>>>>> e2afade72e57f13aea4d45b33c0e992989d3eb67
+
